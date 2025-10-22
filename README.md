@@ -23,8 +23,8 @@ I'm currently a TA for foundation of Computer Science, and Treasurer of ACM-W (A
 
 
 ### 💬 Contact
-My Linkedin : [CarlanaSo](https://www.linkedin.com/in/carlanaso/)
-email: socarlana@gmail.com
+#### My Linkedin : [CarlanaSo](https://www.linkedin.com/in/carlanaso/)
+#### email: socarlana@gmail.com
 
 
 <!--
