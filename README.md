@@ -1,4 +1,6 @@
-## Hi there 👋
+# Carlana So - Computer Science Major @ Oregon State Univeristy
+
+###I am Carlana So, senior year 
 
 <!--
 **carlanaso/carlanaso** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
