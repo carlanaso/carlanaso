@@ -6,13 +6,20 @@ I'm currently a TA for foundation of Computer Science, and Treasurer of ACM-W (A
 ### ⚡ Recent Projects
 
 - [MetaNaviT](https://github.com/klaurie/MetaNaviT) (Sept 2024 - June 2025): An AI-powered resource management tool designed to help users organize, extract, and interact with digital content across local directories, cloud platforms, and web sources.
+
 - cat adoption and purchasing Analysis (CONTINUING) : Analyzed behavioral patterns in pet adoption and purchasing decisions using machine learning models on animal listing data to promote data-driven insights for shelter awareness.
+
+- [Piano Playlist interface](https://github.com/carlanaso/Piano_playlist) (Sept 2023 - June 2024) : Analyzed how different types of piano pieces affect emotional perception and listener engagement, exploring patterns in musical structure, tempo, and key to understand how they influence mood and attention.
+  
 - Exploring Airbnb Market Trend (CONTINUING) : TBD
 
 ### 🌱 Previous Experiences 
 
 - Intern @ Wells Fargo working on automation tests, backend functionalities, and debugging any issues appeared.
-- Contribute two years in undergraduate research program about robotics & music engineering (made [Piano Playlist interface](https://github.com/carlanaso/Piano_playlist) )
+
+- Work as Data Analytic Support to help visualizing and data collection for the transition to Workday @ OSU
+
+- Contribute two years in undergraduate research program about robotics & music engineering (Piano Playlist)
 
 
 ### 💬 Contact
