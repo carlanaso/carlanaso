@@ -1,6 +1,12 @@
-# Carlana So - Computer Science Major @ Oregon State Univeristy
+## ✨ Carlana So - Computer Science @ Oregon State Univeristy
 
-###I am Carlana So, senior year 
+### I am Carlana So, undergraduate 4th year who passionate about creating and data science!
+
+## Recent Projects
+
+
+
+## Previous Experiences
 
 <!--
 **carlanaso/carlanaso** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
